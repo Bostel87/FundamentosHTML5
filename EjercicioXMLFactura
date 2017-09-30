@@ -1,0 +1,22 @@
+<factura id="123" fecha="2016-07-30">
+ <cliente>
+   <nombre>Andres </nombre>
+   <apellidos>Villalta</apellido>
+   <telefono>042969153</telefono>
+   </cliente>
+ <articulos>
+ 	<articulo id="1">
+ 	<cantidad>1</cantidad>
+    <descripcion>Computadora</descripcion>
+    <precio-unitario>200</precio-unitario>
+    <precio-final>220</precio-final>
+    </articulo>
+ 	<articulo id="2">
+ 	<cantidad>3</cantidad>
+ 	<descripcion>Teclados</descripcion>
+ 	<precio-unitario>50</precio-unitario>
+ 	precio-final>55</precio-final>
+    </articulo>
+ </articulos>
+ <precio-total>270</precio-total>
+ </factura>
